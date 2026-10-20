@@ -1,26 +1,83 @@
-# Waste Collection Denmark PC v1.1.2
+# Waste Collection Denmark – Windows
 
-Waste Collection Denmark er en selvstændig affaldskalender til Windows.
+![Waste Collection Denmark Logo](logo.png)
 
-Programmet giver dig overblik over kommende affaldstømninger og viser, hvor mange dage der er til næste afhentning.
+A standalone Windows application for viewing upcoming waste collections in Denmark.
 
-### Funktioner
-- Automatisk adresseopslag hos understøttede affaldsleverandører.
-- Manuel indtastning af tømningsdatoer.
-- Oversigt over kommende afhentninger.
-- Mulighed for at vise eller skjule affaldstyper.
-- Eksport af kalender til CSV.
-- Dansk brugerflade.
-- Fungerer uden Homey og Home Assistant.
+## Download
 
-### Installation
-1. Download `Waste_Collection_Denmark_v1.1.2.exe` under Assets.
-2. Åbn programmet på din Windows-PC.
-3. Vælg automatisk adresseopslag eller manuel kalender.
+➡️ **Download the latest version here:**  
+[Download Waste Collection Denmark v1.1.2](../../releases/tag/v1.1.2)
 
-**System:** Windows 64-bit.
+Current release: **v1.1.2**
 
-**Bemærk:** Dette er en tidlig PC-version. Ikke alle kommuner og affaldsleverandører er testet. Programmet er ikke digitalt signeret og kan derfor udløse en sikkerhedsadvarsel.
+---
+
+## Screenshot
+
+![Waste Collection Denmark Screenshot](screenshot.png)
+
+---
+
+## Features
+
+- Automatic address lookup for supported Danish municipalities
+- View upcoming waste collection dates
+- Countdown to the next collection
+- Manual waste collection calendar
+- Show or hide waste categories
+- Export collection dates to CSV
+- Danish user interface
+- Custom application icon
+- Runs without Homey or Home Assistant
+
+---
+
+## Requirements
+
+- Windows 10 / Windows 11
+- 64-bit PC
+- Internet access for automatic address lookup
+
+---
+
+## Installation
+
+1. Go to the **Releases** page
+2. Download the `.exe` file
+3. Open the file on your Windows PC
+4. Search for your address or use the manual calendar
+
+---
+
+## Important
+
+This is an early Windows release.
+
+- Not all Danish municipalities have been tested yet
+- The application is not digitally signed
+- Windows may show a security warning
+
+---
+
+## Release
+
+Latest release: **Waste Collection Denmark PC v1.1.2**
+
+Download file:  
+`Waste_Collection_Denmark_v1.1.2_logo_i_vindue.exe`
+
+---
+
+## Language
+
+The application interface is currently in Danish.
+
+---
+
+## Support
+
+If you find bugs or have ideas for improvements, feel free to open an issue on GitHub.
 
 
 
