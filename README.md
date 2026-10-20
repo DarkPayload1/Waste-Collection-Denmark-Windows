@@ -1,6 +1,6 @@
 # Waste Collection Denmark – Windows
 
-![Waste Collection Denmark Logo](logo.png)        <img width="128" height="128" alt="logo" src="https://github.com/user-attachments/assets/4f0cd39d-7255-4a5b-8c80-9e3e1d57a9a3" />
+![Waste Collection Denmark Logo](logo.png)        
 
 
 A standalone Windows application for viewing upcoming waste collections in Denmark.
