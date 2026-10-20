@@ -15,8 +15,20 @@ Current release: **v1.1.2**
 
 ## Screenshot
 
-![Waste Collection Denmark Screenshot](screenshot.png)
 
+<img width="1134" height="675" alt="Skærmbillede 2026-10-21 002445" src="https://github.com/user-attachments/assets/29995fd1-01fd-4b43-aa69-cc02a4454c8d" />
+
+
+<img width="1130" height="679" alt="Skærmbillede 2026-10-21 002455" src="https://github.com/user-attachments/assets/d4fd95c9-7074-445c-8dea-caba6e152be8" />
+
+
+<img width="1108" height="629" alt="Skærmbillede 2026-10-21 002700" src="https://github.com/user-attachments/assets/45458ddb-4b64-44e0-a442-1ca5b440390c" />
+
+
+<img width="1109" height="627" alt="Skærmbillede 2026-10-21 002705" src="https://github.com/user-attachments/assets/5a12583d-5516-4cc4-9b6b-4cf66f8af1a2" />
+
+
+<img width="387" height="186" alt="Skærmbillede 2026-10-21 002715" src="https://github.com/user-attachments/assets/2b1e04ec-3fd4-4830-aa32-ff68456c5f49" />
 ---
 
 ## Features
@@ -80,18 +92,3 @@ The application interface is currently in Danish.
 If you find bugs or have ideas for improvements, feel free to open an issue on GitHub.
 
 
-
-
-<img width="1134" height="675" alt="Skærmbillede 2026-10-21 002445" src="https://github.com/user-attachments/assets/29995fd1-01fd-4b43-aa69-cc02a4454c8d" />
-
-
-<img width="1130" height="679" alt="Skærmbillede 2026-10-21 002455" src="https://github.com/user-attachments/assets/d4fd95c9-7074-445c-8dea-caba6e152be8" />
-
-
-<img width="1108" height="629" alt="Skærmbillede 2026-10-21 002700" src="https://github.com/user-attachments/assets/45458ddb-4b64-44e0-a442-1ca5b440390c" />
-
-
-<img width="1109" height="627" alt="Skærmbillede 2026-10-21 002705" src="https://github.com/user-attachments/assets/5a12583d-5516-4cc4-9b6b-4cf66f8af1a2" />
-
-
-<img width="387" height="186" alt="Skærmbillede 2026-10-21 002715" src="https://github.com/user-attachments/assets/2b1e04ec-3fd4-4830-aa32-ff68456c5f49" />
