@@ -21,3 +21,4 @@ Programmet giver dig overblik over kommende affaldstømninger og viser, hvor man
 **System:** Windows 64-bit.
 
 **Bemærk:** Dette er en tidlig PC-version. Ikke alle kommuner og affaldsleverandører er testet. Programmet er ikke digitalt signeret og kan derfor udløse en sikkerhedsadvarsel.
+<img width="866" height="804" alt="Skærmbillede 2026-10-21 001821" src="https://github.com/user-attachments/assets/eaca6368-35ca-4c10-b9c1-0bc035f98f43" />
