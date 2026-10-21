@@ -19,19 +19,15 @@ Image 1 is manual.
 <img width="1134" height="675" alt="Skærmbillede 2026-10-21 002445" src="https://github.com/user-attachments/assets/29995fd1-01fd-4b43-aa69-cc02a4454c8d" />
 
 
-
+Image 2 is Auto
 <img width="1130" height="679" alt="Skærmbillede 2026-10-21 002455" src="https://github.com/user-attachments/assets/d4fd95c9-7074-445c-8dea-caba6e152be8" />
 
 
-
-<img width="1108" height="629" alt="Skærmbillede 2026-10-21 002700" src="https://github.com/user-attachments/assets/0c0c4f77-a906-4686-b838-31e77c0ccdf2" />
-
-
-
+Image 3: when entering an address in Auto
 <img width="1109" height="627" alt="Skærmbillede 2026-10-21 002705" src="https://github.com/user-attachments/assets/b69ffa78-77cf-4baf-b72b-5cdb041e84cf" />
 
 
-
+Image 4: What is visible during emptying—you can choose whether to see everything or hide certain items.
 <img width="387" height="186" alt="Skærmbillede 2026-10-21 002715" src="https://github.com/user-attachments/assets/2b1e04ec-3fd4-4830-aa32-ff68456c5f49" />
 ---
 
