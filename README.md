@@ -87,11 +87,3 @@ Download file:
 ## Language
 
 The application interface is currently in Danish.
-
----
-
-## Support
-
-If you find bugs or have ideas for improvements, feel free to open an issue on GitHub.
-
-
