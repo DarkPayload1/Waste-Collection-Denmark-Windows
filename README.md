@@ -4,7 +4,7 @@
 
 A standalone Windows application for viewing upcoming waste collections in Denmark.
 
-The app is only for checking when your trash will be collected; you cannot get any reminders from it.😊
+## The app is only for checking when your trash will be collected; you cannot get any reminders from it.😊
 
 
 ## Download
