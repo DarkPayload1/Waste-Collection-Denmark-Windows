@@ -22,11 +22,9 @@ Current release: **v1.1.2**
 <img width="1130" height="679" alt="Skærmbillede 2026-10-21 002455" src="https://github.com/user-attachments/assets/d4fd95c9-7074-445c-8dea-caba6e152be8" />
 
 
-<img width="1108" height="629" alt="Skærmbillede 2026-10-21 002700" src="https://github.com/user-attachments/assets/45458ddb-4b64-44e0-a442-1ca5b440390c" />
+<img width="1108" height="629" alt="Skærmbillede 2026-10-21 002700" src="https://github.com/user-attachments/assets/0c0c4f77-a906-4686-b838-31e77c0ccdf2" />
 
-
-<img width="1109" height="627" alt="Skærmbillede 2026-10-21 002705" src="https://github.com/user-attachments/assets/5a12583d-5516-4cc4-9b6b-4cf66f8af1a2" />
-
+<img width="1109" height="627" alt="Skærmbillede 2026-10-21 002705" src="https://github.com/user-attachments/assets/b69ffa78-77cf-4baf-b72b-5cdb041e84cf" />
 
 <img width="387" height="186" alt="Skærmbillede 2026-10-21 002715" src="https://github.com/user-attachments/assets/2b1e04ec-3fd4-4830-aa32-ff68456c5f49" />
 ---
