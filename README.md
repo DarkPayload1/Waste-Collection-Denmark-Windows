@@ -87,3 +87,11 @@ Download file:
 ## Language
 
 The application interface is currently in Danish.
+
+---
+
+## App available for download here for Homey Pro
+
+You can download it here if you want to use it with Homey Pro:
+
+https://homey.app/da-dk/app/com.nicolai.wastecalendar/Waste-Collection-Denmark/test/
