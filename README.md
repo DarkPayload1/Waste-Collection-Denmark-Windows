@@ -9,7 +9,7 @@ The app is only for checking when your trash will be collected; you cannot get a
 
 ## Download
 
-➡️ **Download the latest version here:**  
+➡️ **Download the latest version of Waste Collection Denmark here:**  
 [Download Waste Collection Denmark v1.1.2](../../releases/tag/v1.1.2)
 
 Current release: **v1.1.2**
