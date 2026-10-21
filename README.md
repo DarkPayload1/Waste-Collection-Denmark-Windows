@@ -26,8 +26,8 @@ Image 2 is Auto
 Image 3: when entering an address in Auto
 <img width="1109" height="627" alt="Skærmbillede 2026-10-21 002705" src="https://github.com/user-attachments/assets/b69ffa78-77cf-4baf-b72b-5cdb041e84cf" />
 
-
 Image 4: What is visible during emptying—you can choose whether to see everything or hide certain items.
+
 <img width="387" height="186" alt="Skærmbillede 2026-10-21 002715" src="https://github.com/user-attachments/assets/2b1e04ec-3fd4-4830-aa32-ff68456c5f49" />
 ---
 
